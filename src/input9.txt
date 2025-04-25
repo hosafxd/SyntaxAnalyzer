@@ -1,0 +1,10 @@
+int x;
+int yy;
+x = 5 & 3;
+if (x > 2) {
+x = x - 1;
+}
+while (x != 0) {
+x = x - 1
+}
+return x;

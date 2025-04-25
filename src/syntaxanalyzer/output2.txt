@@ -1,0 +1,8 @@
+Statement 1: Invalid identifier
+Statement 2: Invalid expression
+Statement 3: Invalid expression
+Statement 4: Valid If Statement
+Statement 5: Valid Variable Declaration
+Statement 6: Valid Assignment Statement
+Statement 7: Missing semicolon
+Error: Unmatched Braces

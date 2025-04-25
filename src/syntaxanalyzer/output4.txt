@@ -1,0 +1,11 @@
+Statement 1: Valid Variable Declaration
+Statement 2: Valid Variable Declaration
+Statement 3: Valid Assignment Statement
+Statement 4: Missing semicolon
+Statement 5: Valid If Statement
+Statement 6: Valid While Loop
+Statement 7: Valid Assignment Statement
+Statement 8: Valid If Statement
+Statement 9: Valid Assignment Statement
+Statement 10: Missing semicolon
+Error: Unmatched Braces

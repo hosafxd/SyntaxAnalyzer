@@ -1,0 +1,11 @@
+int @x;
+char #y;
+x = 'c';
+y = 123;
+if (x @ y) {
+    x = y$z;
+}
+while (x ^ y) {
+    x = y++;
+}
+return x--;

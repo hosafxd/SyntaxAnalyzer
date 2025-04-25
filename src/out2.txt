@@ -1,0 +1,7 @@
+Statement 1: Error - Invalid declaration format
+Statement 2: Error - Undeclared variable: y
+Statement 3: Valid If Statement
+Statement 4: Valid Variable Declaration
+Statement 5: Error - Invalid term in expression: y
+Statement 6: Error - Missing semicolon
+Error: Unmatched Braces

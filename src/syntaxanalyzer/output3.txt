@@ -1,0 +1,8 @@
+Statement 1: Missing semicolon
+Statement 2: Missing semicolon
+Statement 3: Valid If Statement
+Statement 4: Missing semicolon
+Statement 5: Invalid expression
+Statement 6: Valid While Loop
+Statement 7: Missing semicolon
+Statement 8: Missing semicolon

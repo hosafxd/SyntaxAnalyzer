@@ -1,0 +1,10 @@
+int a = 77
+char b = x
+if (a > b) {
+    a = a + 1
+    b = b - 1;
+}
+while (a != 0) {
+    a = a - 1
+}
+return a

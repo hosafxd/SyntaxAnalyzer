@@ -1,0 +1,8 @@
+int x1 = 5;
+char y = 'c';
+y = x1 - 2;
+if (y <= 10) {
+    int z;
+    z = y / 3;
+
+return y
