@@ -1,0 +1,9 @@
+Statement 1: Valid Variable Declaration
+Statement 2: Valid If Statement
+Statement 3: Error - Undeclared variable: y
+Statement 4: Valid If Statement
+Statement 5: Error - Missing semicolon
+Statement 6: Valid While Loop
+Statement 7: Valid Assignment Statement
+Statement 8: Valid Return Statement
+Error: Unmatched Braces

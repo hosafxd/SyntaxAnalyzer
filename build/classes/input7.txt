@@ -1,0 +1,11 @@
+char a;
+int a;
+b = 5;
+if (2 = x) {
+    int x;
+    x = y + z;
+}
+while () {
+    a = 1;
+}
+return 5 + * 3;

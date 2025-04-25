@@ -1,0 +1,10 @@
+int    a;
+a=5+3;
+if(a>0){
+}
+while(a>=0){    
+    
+}
+char      b    ;
+b    =     a     ;
+return     a+b+c+d    ;
